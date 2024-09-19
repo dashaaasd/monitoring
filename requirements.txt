@@ -1,0 +1,4 @@
+telebot
+vk_api
+geopy
+pymorphy2
